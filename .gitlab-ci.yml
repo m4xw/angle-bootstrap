@@ -1,4 +1,4 @@
-image: cybik/anglestrap:latest
+image: git.m4xw.net:4567/libretro/dependencies/anglestrap:latest
 
 stages:
   - build
